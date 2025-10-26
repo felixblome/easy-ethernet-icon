@@ -1,5 +1,7 @@
 # Easy Ethernet Icon for macOS
 
+⚠️ THE PROJECT IS NO LONGER MAINTAINED! ⚠️
+
 A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
 
 ![Different icon styles](https://i.ibb.co/kD2KbCs/win.png)
