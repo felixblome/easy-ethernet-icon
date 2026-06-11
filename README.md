@@ -1,6 +1,7 @@
 # Easy Ethernet Icon for macOS
 
 ⚠️ THE PROJECT IS NO LONGER MAINTAINED! ⚠️
+ℹ️ This app will likely become obsolete! With macOS 27 Golden Gate, the Wifi icon will automatically switch into an Ethernet icon when connected via LAN. ℹ️
 
 A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
 
